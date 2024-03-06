@@ -1,0 +1,9 @@
+[
+{"_id":{"$oid":"65e283031a2cc39e6d96212b"},"title":"To Kill a Mockingbird","author":"Harper Lee","publicationYear":{"$numberInt":"1960"}},
+{"_id":{"$oid":"65e2b47694b82893c629b3d9"},"title":"Fifty Shades Of Grey","author":"E. L. James","publicationYear":{"$numberInt":"2011"}},
+{"_id":{"$oid":"65e6ab792826fc2beda201e0"},"title":"Dune","author":"Frank Herbert","publicationYear":{"$numberInt":"1965"}},
+{"_id":{"$oid":"65e6bec3d64c4d387b6f89d3"},"title":"Dune","author":"Frank Herbert","publicationYear":{"$numberInt":"1965"}},
+{"_id":{"$oid":"65e6c8642f22d0dcf48c4d24"},"title":"Fahrenheit 451","author":"Ray Bradbury","publicationYear":{"$numberInt":"1953"}},
+{"_id":{"$oid":"65e6c89b2f22d0dcf48c4d25"},"title":"Catcher in the Rye","author":"J. D. Salinger","publicationYear":{"$numberInt":"1951"}},
+{"_id":{"$oid":"65e6ca8f2a76b62f37c1e132"},"title":"The Great Gatsby","author":"F. Scott Fitzgerald","publicationYear":{"$numberInt":"1925"}}
+]
